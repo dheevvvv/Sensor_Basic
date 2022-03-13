@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SensorBasic</string>
+    <string name="light_text">Light Sensor : %1$.2f</string>
+    <string name="aproximity_text">Proximity Sensor : %1$.2f</string>
 </resources>
